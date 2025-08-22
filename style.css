@@ -199,7 +199,7 @@ footer a{
 }
 
 .d{
-  bottom: 80px;
+  bottom: 170px;
   display: flex;
   flex-direction: column;
 
@@ -208,5 +208,69 @@ footer a{
 .s{
  display: flex;
   flex-direction: column;
-  bottom:65px ;
+  bottom:150px ;
+}
+.x{
+  left: 150px;
+  bottom:  300px;
+  opacity: 0.5;
+  z-index: 0;
+}
+.xx{
+  left: 120px;
+  bottom:  350px;
+  opacity: 0.5;
+  z-index: 0;
+}
+.xxx{
+  left: 100px;
+  bottom:  400px;
+  opacity: 0.5;
+  z-index: 0;
+}
+.p{
+  left: 170px;
+  bottom: 400px;
+  opacity: 0.5;
+
+}
+.pp{
+   left: 150px;
+  bottom: 470px;
+  opacity: 0.5;
+}
+.ppp{
+  left: 120px;
+  bottom: 550px;
+  opacity: 0.5;
+}
+.pppp{
+  left: 100px;
+  bottom: 620px;
+  opacity: 0.5;
+}
+.c{
+   left: 200px;
+  bottom: 500px;
+  opacity: 0.5;
+}
+.cc{
+   left: 180px;
+  bottom: 560px;
+  opacity: 0.5;
+}
+.ccc{
+   left: 160px;
+  bottom: 630px;
+  opacity: 0.5;
+}
+.cccc{
+  left: 140px;
+  bottom: 700px;
+  opacity: 0.5;
+}
+.ccccc{
+  left: 120px;
+  bottom: 770px;
+  opacity: 0.5;
 }
