@@ -200,7 +200,13 @@ footer a{
 
 .d{
   bottom: 80px;
+  display: flex;
+  flex-direction: column;
+
+ 
 }
 .s{
+ display: flex;
+  flex-direction: column;
   bottom:65px ;
 }
