@@ -9,8 +9,9 @@ body {
     text-align: center;
     left: 10%;
 }
-h1{
-    
+.q{
+   font-size: 30px; 
+   margin-top: 40px;
 }
 .i a {
     text-decoration: none;
